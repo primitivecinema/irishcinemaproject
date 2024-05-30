@@ -8,5 +8,5 @@ permalink: /data.html
 
 ## Collection Metadata
 
-The table below provides sorting and basic search of the collection contents. 
+The table below provides sorting and basic search of the data associated with the Early Irish Cinema project. 
 Use the "CSV" or "Excel" button below to download the filtered metadata you see on the page in your preferred format.
