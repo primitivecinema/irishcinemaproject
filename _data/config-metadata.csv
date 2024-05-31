@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Cinema,
 creator,Original Owner,
-date,Date Created,
-description,Description,
+date,Opening Date ,
+description,Address and History,
 subject,Subjects,true
 location,Location
 latitude,Latitude
