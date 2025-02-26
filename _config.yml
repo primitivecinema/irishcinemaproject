@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Ireland's First Cinemas 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a site for the history of Irish cinemas in the silent era
+tagline: Tracing the history of Irish cinemas in the silent era
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a beta website for the Ireland's First Cinemas Project that displays historical data about cinemas open in Ireland during the silent era."
